@@ -1,0 +1,10 @@
+Background picture -- folder containing images
+CS564_FinalProject_Group2.docx -- final report
+controlsfx-8.40.15.jar -- jar that is used in javaFX
+database -- folder containing CSV file of data
+group #2 demo.flv -- vedio demo of application
+mysql-connector-java-8.0.17.jar -- jar that is used in javaFX
+out -- java output (Do not read)
+recipe.iml -- (file index for McOS)
+src -- Java code of application
+test_health_hedo.sql.zip -- exported from mysql dump, and database backup
