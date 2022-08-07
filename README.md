@@ -6,3 +6,5 @@
 - Programmed for backend functions (Daily recording, recommendation)
 - Programmed for UI using JAVAFX (Allowed users to create their own account)
 - Connect our backend with MySQL using JAVA-connector-MySQL
+
+#Thank you for reading
